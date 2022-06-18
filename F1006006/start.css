@@ -1,0 +1,27 @@
+body
+{
+    margin:0;
+    position:fixed;
+    top:0;
+    left:0;
+    min-width: 100%;
+    min-height: 100%;
+}
+h1{
+    position: absolute;
+    top:15%;
+    left:47%;
+    transform: translate(-50%, -50%);
+
+    font-size:90px;
+    color:rgb(102, 166, 226);
+}
+ul{
+    position: absolute;
+    top:75%;
+    left:48%;
+    transform: translate(-50%, -50%);
+
+    font-size:80px;
+    color:rgb(35, 231, 84)
+}
