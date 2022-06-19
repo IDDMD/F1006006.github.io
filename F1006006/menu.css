@@ -31,7 +31,7 @@ h3{
 {
     position: absolute;
     top:45%;
-    left:50%;
+    left:25%;
     transform: translate(-50%, -50%);
 
     font-size:85px;
@@ -42,7 +42,7 @@ h3{
 {
     position: absolute;
     top:60%;
-    left:50%;
+    left:30%;
     transform: translate(-50%, -50%);
 
     font-size:85px;
@@ -87,4 +87,44 @@ h3{
     min-width: 100%;
     min-height: 100%;
     
+}
+.c1
+{
+    position: absolute;
+    top:45%;
+    left:75%;
+    transform: translate(-50%, -50%);
+
+    font-size:85px;
+    color:rgb(102, 166, 226);
+}
+.c2
+{
+    position: absolute;
+    top:60%;
+    left:70%;
+    transform: translate(-50%, -50%);
+
+    font-size:85px;
+    color:rgb(102, 166, 226);
+}
+.c3
+{
+    position: absolute;
+    top:45%;
+    left:40%;
+    transform: translate(-50%, -50%);
+
+    font-size:85px;
+    color:rgb(102, 166, 226);
+}
+.c4
+{
+    position: absolute;
+    top:45%;
+    left:60%;
+    transform: translate(-50%, -50%);
+
+    font-size:85px;
+    color:rgb(102, 166, 226);
 }
